@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ba7e622-c89d-477e-a009-e09b30abc2a1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/demo/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/debug-pack" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/test-pack" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/serializer-pack" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/demo/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/demo/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/demo/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/demo/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/demo/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/demo/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/demo/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/demo/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/demo/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/demo/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/demo/vendor/composer" />
+      <path value="$PROJECT_DIR$/demo/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/demo/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/demo/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/demo/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/demo/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/demo/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/demo/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/demo/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/demo/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/demo/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/demo/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/demo/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/demo/vendor/fzaninotto/faker" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1RSWB5lqoqkIdIy0ZCEzqRadcPE" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../symfony course" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ba7e622-c89d-477e-a009-e09b30abc2a1" name="Default Changelist" comment="" />
+      <created>1569660838850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569660838850</updated>
+      <workItem from="1569660840376" duration="9782000" />
+      <workItem from="1569760795174" duration="2681000" />
+      <workItem from="1569826682542" duration="3860000" />
+      <workItem from="1569831144867" duration="380000" />
+      <workItem from="1569871726230" duration="1702000" />
+      <workItem from="1569913528944" duration="4183000" />
+      <workItem from="1570046806026" duration="3254000" />
+      <workItem from="1570085858175" duration="5024000" />
+      <workItem from="1570191054680" duration="2403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/demo/src/Controller/BlogController.php</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
